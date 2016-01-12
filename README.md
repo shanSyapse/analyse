@@ -21,3 +21,17 @@ Publish:
 ``` text
 grunt deploy
 ```
+
+##to test your stats.json on your local:
+
+```
+npm install
+```
+
+```
+grunt dev
+```
+
+on browser address: enter
+
+localhost: 8080
